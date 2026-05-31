@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "email": "admin@forum.com",
+    "password_hash": "$2a$12$Fv1ql9ZzbwppeCOqXgr31.Y6UdMtqVJCAJyW20gJsOavNfnY4BctS",
+    "role": "admin",
+    "is_locked": false,
+    "lock_until": null,
+    "created_at": "2026-05-01T00:00:00.000Z",
+    "totp_secret": "EODLK4VJNKPNRGTSUPMKHSVHS7JIHWE7",
+    "totp_enabled": true
+  },
+  {
+    "id": 2,
+    "username": "moderator",
+    "email": "mod@forum.com",
+    "password_hash": "$2a$12$Fv1ql9ZzbwppeCOqXgr31.Y6UdMtqVJCAJyW20gJsOavNfnY4BctS",
+    "role": "moderator",
+    "is_locked": false,
+    "lock_until": null,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "user1",
+    "email": "user1@forum.com",
+    "password_hash": "$2a$12$Fv1ql9ZzbwppeCOqXgr31.Y6UdMtqVJCAJyW20gJsOavNfnY4BctS",
+    "role": "user",
+    "is_locked": false,
+    "lock_until": null,
+    "created_at": "2026-05-01T00:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "username": "asd",
+    "email": "asd@gmail.com",
+    "password_hash": "$2a$12$Cpugh8lAPSt30eBuYKj3ierWIo6KmjNPE.QFlVjVWjLh9Fb6iqMhS",
+    "role": "user",
+    "is_locked": false,
+    "lock_until": null,
+    "created_at": "2026-05-30T14:55:35.780Z"
+  },
+  {
+    "id": 5,
+    "username": "test",
+    "email": "test@gmail.com",
+    "password_hash": "$2a$12$dUVND7xMXgRgszqLvgsxE.Ba.t40GK1tlailv7GYMH/o4KLOMRqqC",
+    "role": "user",
+    "is_locked": false,
+    "lock_until": null,
+    "created_at": "2026-05-31T20:32:52.790Z",
+    "totp_secret": "QSO4B3HEUA7KU26375FLVRYB7TDF3KBN",
+    "totp_enabled": false
+  }
+]

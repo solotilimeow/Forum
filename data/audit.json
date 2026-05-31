@@ -1,0 +1,578 @@
+[
+  {
+    "id": 64,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in (2FA)",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T20:40:34.281Z"
+  },
+  {
+    "id": 63,
+    "user_id": 5,
+    "username": "test",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T20:40:21.423Z"
+  },
+  {
+    "id": 62,
+    "user_id": 5,
+    "username": "test",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T20:39:00.967Z"
+  },
+  {
+    "id": 61,
+    "user_id": 5,
+    "username": "test",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T20:38:38.198Z"
+  },
+  {
+    "id": 60,
+    "user_id": 5,
+    "username": "test",
+    "action": "REGISTER",
+    "details": "New user registered: test",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T20:32:52.793Z"
+  },
+  {
+    "id": 59,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set moderator role to moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:14:29.207Z"
+  },
+  {
+    "id": 58,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set moderator role to user",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:14:25.455Z"
+  },
+  {
+    "id": 57,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in (2FA)",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:14:16.538Z"
+  },
+  {
+    "id": 56,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:13:59.417Z"
+  },
+  {
+    "id": 55,
+    "user_id": 1,
+    "username": "admin",
+    "action": "2FA_ENABLED",
+    "details": "2FA enabled by user",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:13:34.573Z"
+  },
+  {
+    "id": 54,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-31T14:12:58.917Z"
+  },
+  {
+    "id": 53,
+    "user_id": 4,
+    "username": "asd",
+    "action": "SUSPICIOUS_IP_CHANGE",
+    "details": "Session IP mismatch: expected 192.168.1.45, got 87.230.14.112",
+    "ip_address": "87.230.14.112",
+    "timestamp": "2026-05-30T16:02:11.000Z"
+  },
+  {
+    "id": 52,
+    "user_id": 3,
+    "username": "user1",
+    "action": "SUSPICIOUS_IP_CHANGE",
+    "details": "Session IP mismatch: expected 192.168.1.12, got 45.33.56.78",
+    "ip_address": "45.33.56.78",
+    "timestamp": "2026-05-30T16:01:03.000Z"
+  },
+  {
+    "id": 51,
+    "user_id": 2,
+    "username": "moderator",
+    "action": "SUSPICIOUS_IP_CHANGE",
+    "details": "Session IP mismatch: expected 10.0.0.5, got 203.0.113.42",
+    "ip_address": "203.0.113.42",
+    "timestamp": "2026-05-30T15:59:55.000Z"
+  },
+  {
+    "id": 50,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SUSPICIOUS_IP_CHANGE",
+    "details": "Session IP mismatch: expected ::1, got 198.51.100.7",
+    "ip_address": "198.51.100.7",
+    "timestamp": "2026-05-30T15:59:20.000Z"
+  },
+  {
+    "id": 49,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:58:44.887Z"
+  },
+  {
+    "id": 48,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:45:58.742Z"
+  },
+  {
+    "id": 47,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:42:26.543Z"
+  },
+  {
+    "id": 46,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:42:17.311Z"
+  },
+  {
+    "id": 45,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:40:22.248Z"
+  },
+  {
+    "id": 44,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:40:20.596Z"
+  },
+  {
+    "id": 43,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:40:03.762Z"
+  },
+  {
+    "id": 42,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:39:52.942Z"
+  },
+  {
+    "id": 41,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:39:31.887Z"
+  },
+  {
+    "id": 40,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:35:41.337Z"
+  },
+  {
+    "id": 39,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:35:22.273Z"
+  },
+  {
+    "id": 38,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:35:02.260Z"
+  },
+  {
+    "id": 37,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:47.344Z"
+  },
+  {
+    "id": 36,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:40.084Z"
+  },
+  {
+    "id": 35,
+    "user_id": 1,
+    "username": "admin",
+    "action": "DELETE_COMMENT",
+    "details": "Deleted comment ID: 4",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:37.857Z"
+  },
+  {
+    "id": 34,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:33.152Z"
+  },
+  {
+    "id": 33,
+    "user_id": 1,
+    "username": "admin",
+    "action": "DELETE_COMMENT",
+    "details": "Deleted comment ID: 5",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:30.451Z"
+  },
+  {
+    "id": 32,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set asd role to user",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:13.541Z"
+  },
+  {
+    "id": 31,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set user1 role to user",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:12.964Z"
+  },
+  {
+    "id": 30,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:34:03.565Z"
+  },
+  {
+    "id": 29,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: user1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:33:58.718Z"
+  },
+  {
+    "id": 28,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:32:38.019Z"
+  },
+  {
+    "id": 27,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:29:11.805Z"
+  },
+  {
+    "id": 26,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:29:09.553Z"
+  },
+  {
+    "id": 25,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:27:22.474Z"
+  },
+  {
+    "id": 24,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:27:20.757Z"
+  },
+  {
+    "id": 23,
+    "user_id": 1,
+    "username": "admin",
+    "action": "UNBAN_USER",
+    "details": "Unbanned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:27:18.386Z"
+  },
+  {
+    "id": 22,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:27:06.672Z"
+  },
+  {
+    "id": 21,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:23:30.306Z"
+  },
+  {
+    "id": 20,
+    "user_id": 1,
+    "username": "admin",
+    "action": "DELETE_POST",
+    "details": "Deleted post \"First Post from User1\" (ID: 3)",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:18:39.127Z"
+  },
+  {
+    "id": 19,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:18:28.792Z"
+  },
+  {
+    "id": 18,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:15:12.956Z"
+  },
+  {
+    "id": 17,
+    "user_id": 1,
+    "username": "admin",
+    "action": "BAN_USER",
+    "details": "Banned user: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:48.290Z"
+  },
+  {
+    "id": 16,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set user1 role to moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:43.220Z"
+  },
+  {
+    "id": 15,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set asd role to moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:40.768Z"
+  },
+  {
+    "id": 14,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set asd role to user",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:37.905Z"
+  },
+  {
+    "id": 13,
+    "user_id": 1,
+    "username": "admin",
+    "action": "SET_ROLE",
+    "details": "Set asd role to moderator",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:32.981Z"
+  },
+  {
+    "id": 12,
+    "user_id": 1,
+    "username": "admin",
+    "action": "DELETE_POST",
+    "details": "Deleted post \"Hello\" (ID: 4)",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:14:22.213Z"
+  },
+  {
+    "id": 11,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T15:10:27.109Z"
+  },
+  {
+    "id": 10,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:56:59.659Z"
+  },
+  {
+    "id": 9,
+    "user_id": 2,
+    "username": "moderator",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:56:53.213Z"
+  },
+  {
+    "id": 8,
+    "user_id": 2,
+    "username": "moderator",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:56:36.372Z"
+  },
+  {
+    "id": 7,
+    "user_id": 4,
+    "username": "asd",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:56:19.502Z"
+  },
+  {
+    "id": 6,
+    "user_id": 4,
+    "username": "asd",
+    "action": "CREATE_COMMENT",
+    "details": "Commented on post 1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:56:05.315Z"
+  },
+  {
+    "id": 5,
+    "user_id": 4,
+    "username": "asd",
+    "action": "CREATE_COMMENT",
+    "details": "Commented on post 1",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:55:57.778Z"
+  },
+  {
+    "id": 4,
+    "user_id": 4,
+    "username": "asd",
+    "action": "CREATE_POST",
+    "details": "Created post \"Hello\"",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:55:45.007Z"
+  },
+  {
+    "id": 3,
+    "user_id": 4,
+    "username": "asd",
+    "action": "REGISTER",
+    "details": "New user registered: asd",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:55:35.783Z"
+  },
+  {
+    "id": 2,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGOUT",
+    "details": "User logged out",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:55:06.922Z"
+  },
+  {
+    "id": 1,
+    "user_id": 1,
+    "username": "admin",
+    "action": "LOGIN_SUCCESS",
+    "details": "User logged in",
+    "ip_address": "::1",
+    "timestamp": "2026-05-30T14:54:51.230Z"
+  }
+]
